@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-digester-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/ISPack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/jackson-core-2.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/jackson-core-asl-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/jackson-mapper-asl-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/jcl-over-slf4j-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/microsoft-windowsazure-storage-sdk-0.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/malke/Downloads/to Send/to Send/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
